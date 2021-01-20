@@ -10,8 +10,8 @@ Programming Language Agnostic , Tech Enthusiast and Fullstack Web Developer.
 
 ## Current activity
 
-- 💻 I'm currently developing remote and freelance projects.
-- 📖 I’m currently learning deno and golang;
+- 💻 I'm currently developing remote and freelance projects;
+- 📖 I’m currently learning reactjs;
 - 🤔 My interests are with front-end & backend then i decide to do fullstack;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
