@@ -5,7 +5,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Introduce the new Lightweight JS Library for DOM Manipulation called AmiraJS, which has only 0.4kb compressed size!](https://dev.to/fauzan121002/introduce-the-new-lightweight-js-library-for-dom-manipulation-called-amirajs-which-has-only-0-4kb-compressed-size-13an)
+- [Mempercayai Takdir, Tanpa Melupakan Kemungkinan dan Kebetulan](https://dev.to/fauzan121002/mempercayai-takdir-tanpa-melupakan-kemungkinan-dan-kebetulan-2lac)
+- [Mendekatkan Diri Kepada Functional Programming di Javascript 🚶](https://dev.to/fauzan121002/mendekatkan-diri-kepada-functional-programming-di-javascript-3opk)
+- [Mengenal Lebih Jauh Tentang EcmaScript , TC39 , 
+ dan EcmaScript Proposal 🚀](https://dev.to/fauzan121002/mengenal-lebih-jauh-tentang-ecmascript-tc39-dan-ecmascript-proposal-2130)
 <!-- BLOG-POST-LIST:END -->
 
 ### Analytics
